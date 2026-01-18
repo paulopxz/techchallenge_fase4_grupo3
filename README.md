@@ -140,8 +140,8 @@ como parte do **Tech Challenge – Fase 4**.
 ### Grupo 3
 
 - Desenvolvedores:
-  Jarbas Ten Caten (jtcaten@bb.com.br)
-  Paulo Sérgio Xavier Santos (paulosxs@bb.com.br)
+  - Jarbas Ten Caten (jtcaten@bb.com.br)
+  - Paulo Sérgio Xavier Santos (paulosxs@bb.com.br)
 
 ---
 
