@@ -144,7 +144,7 @@ como parte do **Tech Challenge – Fase 4**.
   - Paulo Sérgio Xavier Santos (paulosxs@bb.com.br)
 
 - Link do app no Streamlit: https://techchallengefase4grupo3-2pnp7dtlwuameybvkdybny.streamlit.app/
-- Link do vídeo de apresentação no Youtube: 
+- Link do vídeo de apresentação no Youtube: https://www.youtube.com/watch?v=pPLdJ6tAB4Y
 
 ---
 
