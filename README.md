@@ -143,6 +143,9 @@ como parte do **Tech Challenge – Fase 4**.
   - Jarbas Ten Caten (jtcaten@bb.com.br)
   - Paulo Sérgio Xavier Santos (paulosxs@bb.com.br)
 
+- Link do app no Streamlit: https://techchallengefase4grupo3-2pnp7dtlwuameybvkdybny.streamlit.app/
+- Link do vídeo de apresentação no Youtube: 
+
 ---
 
 **Data:** Janeiro de 2026  
