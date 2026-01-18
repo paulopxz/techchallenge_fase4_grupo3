@@ -60,6 +60,8 @@ A partir da coluna `close` do arquivo `Unified_Data.csv`, são calculados:
 - `return`: retorno percentual diário.
 - `volatility`: desvio padrão do retorno em janela de 20 dias.
 
+---
+
 ## 📁 Estrutura do Projeto
 
 ```text
@@ -140,7 +142,6 @@ como parte do **Tech Challenge – Fase 4**.
 - Desenvolvedores:
   Jarbas Ten Caten (jtcaten@bb.com.br)
   Paulo Sérgio Xavier Santos (paulosxs@bb.com.br)
-- Data de conclusão: Janeiro de 2026
 
 ---
 
