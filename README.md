@@ -71,7 +71,6 @@ A partir da coluna `close` do arquivo `Unified_Data.csv`, são calculados:
 ├── requirements.txt                      # Dependências do projeto
 ├── README.md                             # Este arquivo
 ├── Dashboard_Documentacao_Completa.md    # Documentação técnica e executiva do dashboard
-└── Apresentacao_Executiva_5min.md        # Roteiro de apresentação executiva (5 minutos) - VIDEO!
 ```
 
 ---
